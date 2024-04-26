@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addon id="repository.asdfghgghjdhg" name="asdfghgghjdhg Kodi repository" version="1.0.0" provider-name="asdfghgghjdhg">
+	<extension point="xbmc.addon.repository">
+		<dir>
+			<info>https://asdfghgghjdhg.github.io/addons/addons.xml</info>
+			<checksum>https://asdfghgghjdhg.github.io/addons/addons.xml.md5</checksum>
+			<datadir>https://asdfghgghjdhg.github.io/addons/</datadir>
+			<hashes>false</hashes>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en_GB">asdfghgghjdhg Kodi repository</summary>
+		<summary lang="ru_RU">Репозиторий пользователя asdfghgghjdhg для Kodi</summary>
+		<language>ru</language>
+		<license>GPL-2.0-or-later</license>
+		<email>asdfghgghjdhg@gmail.com</email>
+		<source>http://github.com/asdfghgghjdhg/repository.asdfghgghjdhg</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
