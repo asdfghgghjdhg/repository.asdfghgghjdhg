@@ -17,8 +17,8 @@
 		<email>asdfghgghjdhg@gmail.com</email>
 		<source>http://github.com/asdfghgghjdhg/repository.asdfghgghjdhg</source>
 		<assets>
-			<icon>resources/icon.png</icon>
-			<fanart>resources/fanart.jpg</fanart>
+			<icon>resources/media/icon.png</icon>
+			<fanart>resources/media/fanart.jpg</fanart>
 		</assets>
 	</extension>
 </addon>
