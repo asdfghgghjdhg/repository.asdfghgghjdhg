@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addon id="repository.asdfghgghjdhg" name="asdfghgghjdhg Kodi repository" version="1.0.0" provider-name="asdfghgghjdhg">
+<addon id="repository.asdfghgghjdhg" name="asdfghgghjdhg Kodi repository" version="1.0.2" provider-name="asdfghgghjdhg">
 	<extension point="xbmc.addon.repository">
 		<dir>
 			<info>https://asdfghgghjdhg.github.io/addons/addons.xml</info>
